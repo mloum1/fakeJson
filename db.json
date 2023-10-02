@@ -1,0 +1,70 @@
+{
+  "gares": [
+    {
+      "nom": "Gare A",
+      "adresse": "123 Rue de la Gare, Ville A"
+    },
+    {
+      "nom": "Gare B",
+      "adresse": "456 Avenue de la Gare, Ville B"
+    }
+  ],
+  "trains": [
+    {
+      "nom": "Train A",
+      "gare_depart": "Gare A",
+      "gare_arrivee": "Gare B",
+      "heure_arrivee": "09:00",
+      "heure_depart": "09:30"
+    },
+    {
+      "nom": "Train B",
+      "gare_depart": "Gare B",
+      "gare_arrivee": "Gare A",
+      "heure_arrivee": "10:15",
+      "heure_depart": "10:45"
+    },
+    {
+      "nom": "Train C",
+      "gare_depart": "Gare A",
+      "gare_arrivee": "Gare B",
+      "heure_arrivee": "11:30",
+      "heure_depart": "12:00"
+    },
+    {
+      "nom": "Train Loum",
+      "gare_depart": "Gare B",
+      "gare_arrivee": "Gare A",
+      "heure_arrivee": "13:00",
+      "heure_depart": "13:30"
+    },
+    {
+      "nom": "Train Mathieu",
+      "gare_depart": "Gare A",
+      "gare_arrivee": "Gare B",
+      "heure_arrivee": "14:00",
+      "heure_depart": "14:30"
+    },
+    {
+      "nom": "Train Victor",
+      "gare_depart": "Gare B",
+      "gare_arrivee": "Gare A",
+      "heure_arrivee": "15:15",
+      "heure_depart": "15:45"
+    },
+    {
+      "nom": "Train Etienne",
+      "gare_depart": "Gare A",
+      "gare_arrivee": "Gare B",
+      "heure_arrivee": "16:30",
+      "heure_depart": "17:00"
+    },
+    {
+      "nom": "Train Loum",
+      "gare_depart": "Gare B",
+      "gare_arrivee": "Gare A",
+      "heure_arrivee": "18:00",
+      "heure_depart": "18:30"
+    }
+  ]
+}
